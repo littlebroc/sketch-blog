@@ -3,6 +3,8 @@
     {{- $prefix = "📚 " -}}
 {{- else if eq .Section "maths" -}}
     {{- $prefix = "♾️ " -}}
+{{- else if eq .Section "sketch" -}}
+    {{- $prefix = "✏️ " -}}
 {{- else if eq .Section "journals" -}}
     {{- $prefix = "✍🏻 " -}}
 {{- end -}}

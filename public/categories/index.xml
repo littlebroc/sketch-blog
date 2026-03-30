@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Médiathèque Jean Falala</title>
-    <link>http://localhost:39953/categories/</link>
-    <description>Recent content in Categories on Médiathèque Jean Falala</description>
+    <title>Categories on Mon-super-blog-de-dessin</title>
+    <link>http://localhost:36467/categories/</link>
+    <description>Recent content in Categories on Mon-super-blog-de-dessin</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:39953/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36467/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

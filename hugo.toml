@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Médiathèque Jean Falala'
+title = 'Mon-super-blog-de-dessin'
 theme = 'custom'
 
 [taxonomies]
